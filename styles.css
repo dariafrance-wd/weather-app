@@ -1,0 +1,69 @@
+body {
+  background-image: url(sky.jpg);
+}
+.enterCity {
+  display: block;
+  color: white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px rgb(231, 200, 200);
+  max-width: 600px;
+  margin: 20px auto;
+  border: 1px solid white;
+  padding: 15px;
+}
+
+.dayToday {
+  color: #bdc0c4;
+  font-size: 25px;
+  line-height: 20px;
+  margin-left: 20px;
+  margin-bottom: 3px;
+}
+.desc {
+  color: #bdc0c4;
+  font-size: 20px;
+  line-height: 15px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.tem {
+  background-color: aliceblue;
+  width: 40px;
+}
+
+.col-sm {
+  text-align: center;
+}
+li {
+  color: #d0d1d1;
+  font-size: 15px;
+  line-height: 16px;
+  padding-left: 9px;
+  padding-top: 6px;
+  list-style: none;
+}
+ul {
+  padding: 0;
+  margin-left: 40px;
+}
+h1 {
+  margin: 0;
+  margin-left: 15px;
+}
+.weatherNow {
+  font-size: 50px;
+}
+.day1 {
+  margin-bottom: 15px;
+}
+.celcium {
+  position: relative;
+  top: -25px;
+}
+a {
+  text-decoration: none;
+}
+.col-6 {
+  position: relative;
+  left: 40px;
+}
