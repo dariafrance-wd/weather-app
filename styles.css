@@ -9,19 +9,19 @@ body {
   max-width: 600px;
   margin: 20px auto;
   border: 1px solid white;
-  padding: 15px;
+  padding: 30px;
 }
 
 .dayToday {
   color: #bdc0c4;
-  font-size: 25px;
+  font-size: 15px;
   line-height: 20px;
   margin-left: 20px;
   margin-bottom: 3px;
 }
 .desc {
   color: #bdc0c4;
-  font-size: 20px;
+  font-size: 15px;
   line-height: 15px;
   margin-left: 20px;
   margin-bottom: 20px;
