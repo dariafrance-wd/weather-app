@@ -6,7 +6,7 @@ body {
   color: white;
   border-radius: 20px;
   box-shadow: 10px 10px 10px rgb(231, 200, 200);
-  max-width: 800px;
+  max-width: 650px;
   margin: 20px auto;
   border: 1px solid white;
   padding: 30px;
@@ -73,10 +73,7 @@ ul {
 .WeatherForecast {
   margin: 40px auto;
 }
-.form-control {
-  background-color: rgba(39, 33, 66, 0.4);
-  color: #fafbfd;
-}
+
 .tempd {
   margin-top: 15px;
 }
