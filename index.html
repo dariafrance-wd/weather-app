@@ -24,7 +24,7 @@
       <div class="enterCity">
         <form class="search-form" id="search-form">
           <div class="row">
-            <div class="col-9">
+            <div class="col-8">
               <input
                 type="search"
                 placeholder="Enter a city"
@@ -34,7 +34,7 @@
                 autocomplete="off"
               />
             </div>
-            <div class="col-3">
+            <div class="col-4">
               <input
                 type="submit"
                 value="Search"
@@ -49,21 +49,25 @@
         <p class="desc" id="description"></p>
         <div class="row">
           <div class="col-6">
-            <span class="weatherNow" id="temperature"></span>
-            <span class="celcium">
-              <a href="#" id="celsius-link">°C</a> |
-              <a href="#" id="fahrenheit-link">°F</a></span
-            >
+            <div class="weatherD">
+              <span class="weatherNow" id="temperature"></span>
+              <span class="celcium">
+                <a href="#" id="celsius-link">°C</a> |
+                <a href="#" id="fahrenheit-link">°F</a></span
+              >
+            </div>
           </div>
           <div class="col-6">
-            <ul>
-              <li>
-                <strong>Humidity <span id="humidity"></span>%</strong>
-              </li>
-              <li>
-                <strong>Wind <span id="wind"></span> km/h</strong>
-              </li>
-            </ul>
+            <div class="humWid">
+              <ul>
+                <li>
+                  <strong>Humidity <span id="humidity"></span>%</strong>
+                </li>
+                <li>
+                  <strong>Wind <span id="wind"></span> km/h</strong>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
         <hr />
