@@ -49,11 +49,8 @@ h1 {
 }
 .weatherNow {
   font-size: 60px;
-  padding-left: 5px;
 }
-img {
-  width: 60px;
-}
+
 .day1 {
   margin-bottom: 15px;
 }
