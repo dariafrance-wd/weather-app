@@ -1,5 +1,7 @@
 body {
-  background-image: url(sky.jpg);
+  background-image: url(sky1.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
 }
 .enterCity {
   display: block;
@@ -37,8 +39,9 @@ body {
 }
 li {
   color: #d0d1d1;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 16px;
+  font-weight: 300;
   padding-left: 9px;
   padding-top: 6px;
   list-style: none;
