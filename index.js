@@ -38,6 +38,7 @@ function dispayWeather(response) {
   );
   document.querySelector("#description").innerHTML =
     response.data.weather[0].description;
+
   let iconElement = document.querySelector("#icon");
   document
     .querySelector("#icon")

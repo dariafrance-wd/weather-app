@@ -27,6 +27,7 @@ body {
   line-height: 20px;
   margin-left: 20px;
   margin-bottom: 20px;
+  text-transform: capitalize;
 }
 .tem {
   background-color: aliceblue;
