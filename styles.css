@@ -76,6 +76,16 @@ ul {
 .tempd {
   margin-top: 15px;
 }
-.units {
-  margin-top: 15px;
+.weatherNow .units {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
+}
+.weather-temperature .active {
+  color: rgb(235, 231, 231);
+  cursor: default;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
 }
