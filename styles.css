@@ -58,10 +58,7 @@ h1 {
 .day1 {
   margin-bottom: 15px;
 }
-.celcium {
-  position: relative;
-  top: 15px;
-}
+
 a {
   text-decoration: none;
 }
@@ -77,5 +74,8 @@ ul {
   margin: 40px auto;
 }
 .tempd {
+  margin-top: 15px;
+}
+.units {
   margin-top: 15px;
 }
