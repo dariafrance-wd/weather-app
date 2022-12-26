@@ -81,6 +81,9 @@ ul {
   font-size: 16px;
   top: -34px;
 }
+.weatherNow {
+  width: auto;
+}
 .weather-temperature .active {
   color: rgb(235, 231, 231);
   cursor: default;
