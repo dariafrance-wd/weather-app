@@ -74,7 +74,7 @@ ul {
   margin: 40px auto;
 }
 .tempd {
-  margin-top: 15px;
+  margin-top: 5px;
 }
 .weatherNow .units {
   position: relative;
@@ -91,4 +91,7 @@ ul {
 
 .weather-temperature .active:hover {
   text-decoration: none;
+}
+.weather-forecast-temperature-min {
+  color: #bdc0c4;
 }
