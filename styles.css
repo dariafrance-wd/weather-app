@@ -54,6 +54,8 @@ h1 {
 }
 .weatherNow {
   font-size: 60px;
+  margin-right: 0px;
+  width: auto;
 }
 
 .day1 {
@@ -81,10 +83,9 @@ ul {
   position: relative;
   font-size: 16px;
   top: -34px;
+  padding: 0px;
 }
-.weatherNow {
-  width: auto;
-}
+
 .weather-temperature .active {
   color: rgb(235, 231, 231);
   cursor: default;
